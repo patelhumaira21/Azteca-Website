@@ -1,0 +1,10 @@
+Sample Usernames & Passwords:
+Format Username ---> Password ---> Role
+
+1. patelhumaira ---> Patel@13 ---> ADMIN
+2. sidra ---> sidra ---> ARTIST
+3. ashpak ---> abc@123 ---> ADMIN
+4. bhavna ---> 123456 ---> PUBLISHER
+5. rini ---> rini ---> MEMBER
+6. amal ---> amalu ---> PUBLISHER
+
